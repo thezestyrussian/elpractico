@@ -12,6 +12,9 @@
     <background>background\bg_testbg</background>
   </backgrounds>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_zestyman</object>
+  </objects>
   <rooms name="rooms">
     <room>rooms\rm_zestyroom</room>
   </rooms>
