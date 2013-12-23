@@ -8,7 +8,9 @@
   <sprites name="sprites">
     <sprite>sprites\spr_zestyman</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\bg_testbg</background>
+  </backgrounds>
   <paths name="paths"/>
   <help>
     <rtf>help.rtf</rtf>
